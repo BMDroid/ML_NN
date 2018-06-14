@@ -9,7 +9,7 @@ Here, I implemented the neural network to recognize the handwritten digits from 
 
 ### 1. Data Visualization
 
-<p align="center">  <img src="https://github.com/BMDroid/ML_NN/blob/master/figs/data.png" width="50%">
+<p align="center">  <img src="https://github.com/BMDroid/ML_NN/blob/master/figs/data_v.png" width="50%">
 </p>  
 
 ### 2. Model representation
