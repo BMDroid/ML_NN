@@ -50,12 +50,12 @@ The accuracy of the NN for handwritten digits is about 97.5%.
 
 The **cost function** of the neural networks is:
 
-<p align="center">  <img src="https://github.com/BMDroid/ML_NN/blob/master/figs/cost_func.png" width="45%">
+<p align="center">  <img src="https://github.com/BMDroid/ML_NN/blob/master/figs/cost_func.png" width="60%">
 </p>  
 
 And the **regularized** cost function is the following:
 
-<p align="center">  <img src="https://github.com/BMDroid/ML_NN/blob/master/figs/cost_func_r.png" width="45%">
+<p align="center">  <img src="https://github.com/BMDroid/ML_NN/blob/master/figs/cost_func_r.png" width="60%">
 </p>  
 
 ```matlab
